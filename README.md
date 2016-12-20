@@ -1,6 +1,15 @@
 # Awesome Deduction [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome deductive databases.
 
+
+## Contents
+
+- [Deductive Databases](#deductive-databases)
+- [Datalog](#datalog)
+    - [DES](#des)
+    - [Datomic](#datomic)
+    - [Dedalus](dedalus)
+
 ## [Deductive Databases](https://en.wikipedia.org/wiki/Deductive_database)
 Deductive databases combine logical programming with relational databases, and are capable of inferring new information from data stored in the database [memory banks](http://www.imdb.com/character/ch0011083/quotes); wherein multiplicative deductions are as elementary as Holmesian deduction, and are only bottlenecked by available storage capacity.
 
