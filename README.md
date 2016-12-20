@@ -11,7 +11,7 @@ A curated list of awesome deductive databases.
     - [Dedalus](dedalus)
 
 ## [Deductive Databases](https://en.wikipedia.org/wiki/Deductive_database)
-Deductive databases combine logical programming with relational databases, and are capable of inferring new information from data stored in the database [memory banks](http://www.imdb.com/character/ch0011083/quotes); wherein multiplicative deductions are as elementary as Holmesian deduction, and are only bottlenecked by available storage capacity.
+Deductive databases combine logical programming with relational databases, and are capable of inferring new information from data stored in the database [memory banks](http://www.imdb.com/character/ch0011083/quotes); wherein multiplicative deductions are as elementary as Holmesian deduction, and are only bottlenecked by available storage capacity. Deductive databases can also be used as a form of data compression.
 
 ## [Datalog](http://en.wikipedia.org/wiki/Datalog)
 Datalog is a turing-incomplete subset of Prolog, used as a query language for deductive databases.
