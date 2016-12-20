@@ -19,6 +19,7 @@ Datalog is a turing-incomplete subset of Prolog, used as a query language for de
 ### [DES](https://sourceforge.net/projects/des/)
 Datalog Educational System is a cross-platform Prolog implementation of Datalog; licensed under GPL.
 #### Educational Resources:
+* [DES: A Deductive Database System](http://www.sciencedirect.com/science/article/pii/S157106611100048X)
 * [DES User's Manual](http://des.sourceforge.net/html/manual.html)
 * The University of Sydney
     * [Introduction to Deductive Databases and Datalog](http://sydney.edu.au/engineering/it/courses/info2120/lectures/02adv_Datalog.pdf)
