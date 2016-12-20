@@ -21,13 +21,16 @@ Datalog Educational System is a cross-platform Prolog implementation of Datalog;
 #### Educational Resources:
 * [DES: A Deductive Database System](http://www.sciencedirect.com/science/article/pii/S157106611100048X)
 * [DES User's Manual](http://des.sourceforge.net/html/manual.html)
-* The University of Sydney
+* The University of Sydney:
     * [Introduction to Deductive Databases and Datalog](http://sydney.edu.au/engineering/it/courses/info2120/lectures/02adv_Datalog.pdf)
     * [Introduction to Datalog with DES](http://sydney.edu.au/engineering/it/courses/info2120/docs/DES_Walkthrough.pdf)
 
 ### [Datomic](http://datomic.com/)
 Datomic is a proprietary dialect of Datalog.
 #### Educational Resources:
+* [Documentation](http://docs.datomic.com/)
+* [Videos](http://www.datomic.com/videos.html)
+* [Training](http://www.datomic.com/training.html)
 * [Learn Datalog Today](http://www.learndatalogtoday.org/)
 
 ### [Dedalus](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-173.html)
